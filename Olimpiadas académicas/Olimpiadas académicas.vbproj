@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2DC0F324-29AB-4DD4-8FAA-66A22C98524D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Olimpiadas_académicas.My.MyApplication</StartupObject>
+    <RootNamespace>Olimpiadas_académicas</RootNamespace>
+    <AssemblyName>Olimpiadas académicas</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Olimpiadas académicas.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42030,42032,42036,42104,42108,42109</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Olimpiadas académicas.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42030,42032,42036,42104,42108,42109</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IG logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\..\..\..\Program Files\SQLite.NET\bin\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SQLite" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aplicacion\strucForeign.vb" />
+    <Compile Include="Aplicacion\VariablesGlobales.vb" />
+    <Compile Include="Clases\AsignacionCategoria.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\Categorias_Asignadas.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\Categoria_A_Importar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\classExportarExcel.vb" />
+    <Compile Include="Model\ModBase.vb" />
+    <Compile Include="Model\modCategoria.vb" />
+    <Compile Include="Model\modCatPreg.vb" />
+    <Compile Include="Model\modEntidades.vb" />
+    <Compile Include="Model\modEquipos.vb" />
+    <Compile Include="Model\modEventos.vb" />
+    <Compile Include="Model\modExamen.vb" />
+    <Compile Include="Clases\ConexionLite.vb" />
+    <Compile Include="Clases\Conexion_SqlServer.vb" />
+    <Compile Include="Clases\Elemento.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\Inscripciones_Usuario.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\InscripcionPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\MensajeFull.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\modInscripciones.vb" />
+    <Compile Include="Model\modPreguntas.vb" />
+    <Compile Include="Model\modTipoExamen.vb" />
+    <Compile Include="Model\modTipoUsuario.vb" />
+    <Compile Include="Model\modUsuarios.vb" />
+    <Compile Include="Clases\Resultados.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clases\Usuario_Logueado.vb" />
+    <Compile Include="Aplicacion\emerations.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmExportEstado.Designer.vb">
+      <DependentUpon>frmExportEstado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmExportEstado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmExportarPreguntas.designer.vb">
+      <DependentUpon>frmExportarPreguntas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmExportarPreguntas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmImportarPregs.designer.vb">
+      <DependentUpon>frmImportarPregs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Exportaciones\frmImportarPregs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmColegios.Designer.vb">
+      <DependentUpon>frmColegios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmColegios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmCreditos.Designer.vb">
+      <DependentUpon>frmCreditos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmCreditos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmExamen.Designer.vb">
+      <DependentUpon>frmExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmCategorias.Designer.vb">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmExamenes.Designer.vb">
+      <DependentUpon>frmExamenes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmExamenes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmInscribirUsu.designer.vb">
+      <DependentUpon>frmInscribirUsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmInscribirUsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmOportunidadesUsu.Designer.vb">
+      <DependentUpon>frmOportunidadesUsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmOportunidadesUsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\ClasesPublico\Participante_Mostrado.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\ClasesPublico\Usuarios_Participando.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoImagen.Designer.vb">
+      <DependentUpon>frmPublicoImagen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoImagen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPuestosPorEvento.Designer.vb">
+      <DependentUpon>frmPuestosPorEvento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPuestosPorEvento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmResult2.Designer.vb">
+      <DependentUpon>frmResult2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmResult2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmUsuario.designer.vb">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmValidando.Designer.vb">
+      <DependentUpon>frmValidando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmValidando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Manager\Chat\Listado_Usuarios_Conectados.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\Manager\Chat\Usuario_Conectado.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\clsItemView.vb" />
+    <Compile Include="Vistas\NewPromt\frmAdminClientes.Designer.vb">
+      <DependentUpon>frmAdminClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmAdminClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmAdminEvento.Designer.vb">
+      <DependentUpon>frmAdminEvento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmAdminEvento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmAdministrador.designer.vb">
+      <DependentUpon>frmAdministrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmAdministrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmManagerChat.Designer.vb">
+      <DependentUpon>frmManagerChat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmManagerChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoResultados.Designer.vb">
+      <DependentUpon>frmPublicoResultados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoResultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoParticipantes.Designer.vb">
+      <DependentUpon>frmPublicoParticipantes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoParticipantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoExamen.Designer.vb">
+      <DependentUpon>frmPublicoExamen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPublico\frmPublicoExamen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmUsuariosConectados.Designer.vb">
+      <DependentUpon>frmUsuariosConectados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Manager\frmUsuariosConectados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion\ModuloFormularios.vb" />
+    <Compile Include="Vistas\NewPromt\clsClienteSocket.vb" />
+    <Compile Include="Vistas\NewPromt\clsDatosDeUnCliente.vb" />
+    <Compile Include="Vistas\NewPromt\clsServidorSocket.vb" />
+    <Compile Include="Vistas\NewPromt\frmMensajeSuperior.Designer.vb">
+      <DependentUpon>frmMensajeSuperior.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmMensajeSuperior.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmPromt.Designer.vb">
+      <DependentUpon>frmPromt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\frmPromt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\pnParticipantsCat.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\pnPregunta.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\NewPromt\pnResult.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmDetalleResultado.Designer.vb">
+      <DependentUpon>frmDetalleResultado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmDetalleResultado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmReporteResultados.Designer.vb">
+      <DependentUpon>frmReporteResultados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmReporteResultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmResultados.Designer.vb">
+      <DependentUpon>frmResultados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Resultados\frmResultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmSeleccionPreguntas.Designer.vb">
+      <DependentUpon>frmSeleccionPreguntas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmSeleccionPreguntas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmConectando.Designer.vb">
+      <DependentUpon>frmConectando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmConectando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\frmPreguntas.Designer.vb">
+      <DependentUpon>frmPreguntas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\frmPreguntas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Aplicacion\SocketCliente.vb" />
+    <Compile Include="Aplicacion\SocketServidor.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Vistas\Exportaciones\frmExportarPreguntas.de.resx">
+      <DependentUpon>frmExportarPreguntas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Exportaciones\frmExportarPreguntas.en.resx">
+      <DependentUpon>frmExportarPreguntas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Exportaciones\frmExportarPreguntas.resx">
+      <DependentUpon>frmExportarPreguntas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Exportaciones\frmExportEstado.resx">
+      <DependentUpon>frmExportEstado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Exportaciones\frmImportarPregs.resx">
+      <DependentUpon>frmImportarPregs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmCategorias.resx">
+      <DependentUpon>frmCategorias.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmColegios.resx">
+      <DependentUpon>frmColegios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmCreditos.resx">
+      <DependentUpon>frmCreditos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmExamen.resx">
+      <DependentUpon>frmExamen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmExamenes.resx">
+      <DependentUpon>frmExamenes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmInscribirUsu.resx">
+      <DependentUpon>frmInscribirUsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmOportunidadesUsu.resx">
+      <DependentUpon>frmOportunidadesUsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPublico\frmPublicoImagen.resx">
+      <DependentUpon>frmPublicoImagen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPuestosPorEvento.resx">
+      <DependentUpon>frmPuestosPorEvento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmResult2.resx">
+      <DependentUpon>frmResult2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmUsuario.resx">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmValidando.resx">
+      <DependentUpon>frmValidando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\NewPromt\frmAdminClientes.resx">
+      <DependentUpon>frmAdminClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\NewPromt\frmAdminEvento.resx">
+      <DependentUpon>frmAdminEvento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Manager\frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Manager\frmManagerChat.resx">
+      <DependentUpon>frmManagerChat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPublico\frmPublicoResultados.resx">
+      <DependentUpon>frmPublicoResultados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPublico\frmPublicoParticipantes.resx">
+      <DependentUpon>frmPublicoParticipantes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPublico\frmPublicoExamen.resx">
+      <DependentUpon>frmPublicoExamen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Manager\frmUsuariosConectados.resx">
+      <DependentUpon>frmUsuariosConectados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\NewPromt\frmMensajeSuperior.resx">
+      <DependentUpon>frmMensajeSuperior.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\NewPromt\frmPromt.resx">
+      <DependentUpon>frmPromt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Resultados\frmDetalleResultado.resx">
+      <DependentUpon>frmDetalleResultado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Resultados\frmReporteResultados.resx">
+      <DependentUpon>frmReporteResultados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\Resultados\frmResultados.resx">
+      <DependentUpon>frmResultados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmSeleccionPreguntas.resx">
+      <DependentUpon>frmSeleccionPreguntas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmConectando.resx">
+      <DependentUpon>frmConectando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\frmPreguntas.resx">
+      <DependentUpon>frmPreguntas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="rptResultados.mht" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSXML2">
+      <Guid>{F5078F18-C551-11D3-89B9-0000F81FE221}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Olimpiadas academicass.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Frm cuatro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Frm dos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo LAL new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Frm uno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Frm tres.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IG logo.ico" />
+    <None Include="Resources\planet.jpg" />
+    <None Include="Resources\decoroStreak.jpg" />
+    <None Include="Resources\fondoStreak.jpg" />
+    <None Include="Resources\3d bar chart.png" />
+    <None Include="Resources\Revolution Icon 03_40-32.png" />
+    <None Include="Resources\Logo AOL.jpg" />
+    <None Include="Resources\Revolution Icon 10_40-32.png" />
+    <None Include="Resources\Profile.png" />
+    <None Include="Resources\Revolution Icon 11_40-32.png" />
+    <None Include="Resources\Revolution Icon 15_50x50-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

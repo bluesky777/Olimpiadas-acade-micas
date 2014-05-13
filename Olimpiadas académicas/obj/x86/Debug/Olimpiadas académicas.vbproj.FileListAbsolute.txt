@@ -1,0 +1,531 @@
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInicioManager.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Form1.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.ListaEquipos.resources
+C:\Users\BlueSky\documents\visual studio 2010\Projects\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInicioManager.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInicioManager.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.ListaEquipos.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInicioManager.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.ListaEquipos.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas Elvis\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+\\Matriculas\compartir\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublico.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerShow.resources
+D:\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerShow.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublico.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - copia\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerShow.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublico.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerShow.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublico.resources
+D:\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerExamen.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+D:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+D:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+D:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerExamen.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+E:\COMPARTIR\11 ONCE\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+D:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.2.tlog
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+C:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+C:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+C:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+C:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerExamen.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerConfig.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.read.2.tlog
+C:\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\DOCUMENTOS\Olimpiadas académicas - C\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe.config
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\de\Olimpiadas académicas.resources.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\en\Olimpiadas académicas.resources.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbprojResolveAssemblyReference.cache
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportEstado.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmImportarPregs.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerExamen.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.rscOlimp.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resource1.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.de.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.en.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.GenerateResource.Cache
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\de\Olimpiadas académicas.resources.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\en\Olimpiadas académicas.resources.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdministrador.resources
+C:\Users\Cristiano\Documents\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInscribirUsu.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe.config
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.VBIDE.dll
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\de\Olimpiadas académicas.resources.dll
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\en\Olimpiadas académicas.resources.dll
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbprojResolveAssemblyReference.cache
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportEstado.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmImportarPregs.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInscribirUsu.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResult2.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdministrador.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerExamen.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.rscOlimp.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resource1.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.de.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.en.resources
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.GenerateResource.Cache
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\de\Olimpiadas académicas.resources.dll
+\\Josecin-pc\documentos\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\en\Olimpiadas académicas.resources.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe.config
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\de\Olimpiadas académicas.resources.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\en\Olimpiadas académicas.resources.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbprojResolveAssemblyReference.cache
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportEstado.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmImportarPregs.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInscribirUsu.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmOportunidadesUsu.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPuestosPorEvento.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResult2.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmValidando.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdministrador.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuariosConectados.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.de.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.en.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.GenerateResource.Cache
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\de\Olimpiadas académicas.resources.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\en\Olimpiadas académicas.resources.dll
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoImagen.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\System.Data.SQLite.xml
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPromt.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamenes.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdminEvento.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmMensajeSuperior.resources
+E:\DOCUMENTOS\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdminClientes.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe.config
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Interop.MSXML2.dll
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.ResolveComReference.cache
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.exe
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.xml
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.pdb
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.exe
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.pdb
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\Olimpiadas académicas.xml
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\de\Olimpiadas académicas.resources.dll
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\bin\Debug\en\Olimpiadas académicas.resources.dll
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbprojResolveAssemblyReference.cache
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportEstado.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmImportarPregs.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCategorias.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmColegios.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmCreditos.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamen.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExamenes.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmInscribirUsu.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmOportunidadesUsu.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoImagen.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPuestosPorEvento.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResult2.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuario.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmValidando.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdminClientes.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdminEvento.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmAdministrador.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmManagerChat.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoResultados.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoParticipantes.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPublicoExamen.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmUsuariosConectados.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmMensajeSuperior.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPromt.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmDetalleResultado.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmReporteResultados.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmResultados.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmSeleccionPreguntas.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmConectando.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmLogin.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmPreguntas.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.Resources.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.de.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas_académicas.frmExportarPreguntas.en.resources
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\Olimpiadas académicas.vbproj.GenerateResource.Cache
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\de\Olimpiadas académicas.resources.dll
+D:\COMPARTIR\00\MyLyli\Olimpiadas académicas\Olimpiadas académicas\obj\x86\Debug\en\Olimpiadas académicas.resources.dll

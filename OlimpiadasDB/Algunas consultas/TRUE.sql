@@ -1,0 +1,1 @@
+update tbUsuarios set UsuActivo='True'
